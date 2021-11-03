@@ -1,0 +1,33 @@
+ul li{
+    color: green;
+}
+ol li{
+    color: orange;
+}
+ul{
+    font-size: 26px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+ol{
+    font-size: 34px;
+    font-family: 'Times New Roman', Times, serif;
+}
+button{
+    background-color: pink;
+    color: black;
+    font-weight: bold;
+    font-size: 28px;
+}
+h1{
+    font-size: 100px;
+    font-weight: bold;
+    color: orchid;
+}
+.back{
+    color: rgb(124, 3, 3);
+    font-style: italic;
+}
+em,
+strong{
+    color: blue;
+}
